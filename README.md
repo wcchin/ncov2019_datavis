@@ -6,5 +6,6 @@ There is one data source for now: [2019-nCoV Global Cases by Johns Hopkins CSSE]
 
 data downloaded from their Google spreadsheet: [Time series google spreadsheet](https://docs.google.com/spreadsheets/d/1UF2pSkFTURko2OvfHWWlFpDFAr1UxCBA4JLwlSP6KFo/edit?usp=sharing)
 
-visualisation is based on Uber's [Kepler.gl-jupyter](https://github.com/keplergl/kepler.gl/blob/master/docs/keplergl-jupyter/user-guide.md)
+The visualization is based on Uber's [Kepler.gl-jupyter](https://github.com/keplergl/kepler.gl/blob/master/docs/keplergl-jupyter/user-guide.md)
 
+The visualization result link is here: https://wcchin.github.io/ncov2019_datavis/map_time_series.html

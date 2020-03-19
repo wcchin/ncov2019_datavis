@@ -12,6 +12,7 @@ The latest data source is pull from JHU CSSE repos for COVID-19: https://github.
 - [Total recovered cases](https://wcchin.github.io/ncov2019_datavis/map_covid19_Recovered.html)
 - [Total deaths](https://wcchin.github.io/ncov2019_datavis/map_covid19_Deaths.html)
 - [Remaining cases](https://wcchin.github.io/ncov2019_datavis/map_covid19_Remaining.html)
+- [This readme file](https://github.com/wcchin/ncov2019_datavis)
 
 
 

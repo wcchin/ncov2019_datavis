@@ -6,6 +6,15 @@ The latest data source is pull from JHU CSSE repos for COVID-19: https://github.
 
 
 
+**The Maps**: 
+
+- [Total confirmed cases](https://wcchin.github.io/ncov2019_datavis/map_covid19_Confirmed.html)
+- [Total recovered cases](https://wcchin.github.io/ncov2019_datavis/map_covid19_Recovered.html)
+- [Total deaths](https://wcchin.github.io/ncov2019_datavis/map_covid19_Deaths.html)
+- [Remaining cases](https://wcchin.github.io/ncov2019_datavis/map_covid19_Remaining.html)
+
+
+
 **The previous data source**:
 
 There is one data source ~~for now~~: [2019-nCoV Global Cases by Johns Hopkins CSSE](https://gisanddata.maps.arcgis.com/apps/opsdashboard/index.html?fbclid=IwAR040UaRGGDwlAPyVVFr-3sNFjtd3sMBqodHzFeQdQ1GVPYuwkbOrVTRUh8#/bda7594740fd40299423467b48e9ecf6)
